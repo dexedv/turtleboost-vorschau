@@ -1,0 +1,16 @@
+{
+  "name": "Fahrschule turtleboost",
+  "short_name": "turtleboost",
+  "description": "Deine moderne Fahrschule in Hainburg",
+  "start_url": "/turtleboost-vorschau/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#27c5f5",
+  "icons": [
+    {
+      "src": "/turtleboost-vorschau/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
